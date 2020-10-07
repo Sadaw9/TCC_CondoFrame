@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\bin\Debug\CondoFrame.exe.config
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\bin\Debug\CondoFrame.exe
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\bin\Debug\CondoFrame.pdb
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.Form1.resources
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.frmCondomino.resources
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.exe
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.pdb
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.frmComunicado.resources
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.frmCorrespondencia.resources
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.frmPorteiro.resources
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.frmReclamacao.resources
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.frmReserva.resources
+C:\Users\Usuario\Desktop\TCC_CondoFrame\CondoFrame\CondoFrame\obj\Debug\CondoFrame.frmSindico.resources
